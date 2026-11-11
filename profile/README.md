@@ -6,6 +6,7 @@
 10 retail systems, each with a separate frontend and backend repository — modelled on real store operations work: inventory, checkout, fulfilment, payments, and store dashboards.
 
 🌐 Full portfolio with live demos: https://gopichand-portfolio-sooty.vercel.app/
+📍 Atlanta, Georgia
 
 ## The systems
 
